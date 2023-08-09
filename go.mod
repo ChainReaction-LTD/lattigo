@@ -1,4 +1,4 @@
-module github.com/tuneinsight/lattigo/v4
+module github.com/ChainReaction-LTD/lattigo/v4.0.0-cr
 
 go 1.13
 
