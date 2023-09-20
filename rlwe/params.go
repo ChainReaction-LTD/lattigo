@@ -20,7 +20,7 @@ const MaxLogN = 17
 const MinLogN = 4
 
 // MaxModuliCount is the largest supported number of moduli in the RNS representation.
-const MaxModuliCount = 34
+const MaxModuliCount = 50
 
 // MaxModuliSize is the largest bit-length supported for the moduli in the RNS representation.
 const MaxModuliSize = 60
